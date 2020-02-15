@@ -1,4 +1,4 @@
-## **Siarhei Astapenka**<br>
+## **Siarhei Astapenka**
 
 ## **Contacts**
 e-mail: serge.astapenko@gmail.com, 
@@ -13,7 +13,7 @@ none <br>
 
 ## **Experience**
 I don't have experience in coding. I'm absolutely novice here. But long time ago I built a site for myself on wordpress with manual edition of its theme in Sublime text editor. <br>
-*UPD:* A little HTML/CSS experience that I gained during preparing for this course.<br>
+**UPD:** A little HTML/CSS experience that I gained during preparing for this course.<br>
 
 ## **Education**
 that is my 1st cource<br>
